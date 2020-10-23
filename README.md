@@ -1,6 +1,6 @@
 # N1-OpenWrt
 
-[![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/jianshaow/N1-OpenWrt/blob/master/LICENSE)
+[![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/jianshaow/N1-OpenWrt/blob/main/LICENSE)
 ![GitHub Stars](https://img.shields.io/github/stars/jianshaow/N1-OpenWrt.svg?style=flat-square&label=Stars&logo=github)
 ![GitHub Forks](https://img.shields.io/github/forks/jianshaow/N1-OpenWrt.svg?style=flat-square&label=Forks&logo=github)
 
